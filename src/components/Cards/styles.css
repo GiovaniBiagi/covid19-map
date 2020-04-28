@@ -1,0 +1,16 @@
+
+.firstCard {
+    background: linear-gradient(124deg, rgba(100,70,198,1) 0%, rgba(184,55,246,1) 58%) !important;
+}
+
+.secondCard {
+    background: linear-gradient(124deg, rgba(45,114,217,1) 0%, rgba(101,173,254,1) 58%) !important;
+}
+
+.thirdCard {
+    background: linear-gradient(124deg, rgba(91,230,135,1) 0%, rgba(92,215,192,1) 58%) !important;
+}
+
+.fourthCard {
+    background: linear-gradient(124deg, rgba(252,45,45,1) 0%, rgba(255,100,100,1) 58%) !important;
+}
